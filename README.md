@@ -1,6 +1,5 @@
-# niftylearning
-Literacy skills for Undergraduates & Graduates.
+# niftyleadership
 
-25% of eomployers are unhappy with the literacy skills of recent graduates.
+Leadership skills in Virtual Environments
 
-Niftylearning is here to help!
+Niftyleadership is here to help!
